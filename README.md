@@ -15,4 +15,9 @@ https://mcallia.github.io/bc-sorted-province/majority/
 while BC swung right in 2024, all 66 of this riding's polls moved toward the NDP.
 https://mcallia.github.io/bc-sorted-province/lonsdale/
 
+**The Fall of Fortress Seymour** - North Vancouver-Seymour: the North Shore's Liberal
+citadel, its 2020 collapse, and the 2024 counter-swing that ran hardest through its
+deepest blue ground - 69 of 70 polls, with one lonely holdout.
+https://mcallia.github.io/bc-sorted-province/seymour/
+
 All figures computed from source data; methodology and caveats in each piece's endnote.
