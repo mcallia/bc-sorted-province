@@ -1,7 +1,7 @@
 # BC Election Scrollies
 
 Scroll-driven data essays on British Columbia's electoral geography, built from
-Elections BC official results and Statistics Canada census data.
+Elections BC / Elections Canada official results and Statistics Canada census data.
 
 **The Sorted Province** - what actually divides BC voters (education, ownership, age,
 language - not income). BC elections 2013-2024 x 2021 Census.
@@ -26,5 +26,13 @@ https://mcallia.github.io/bc-sorted-province/seymour/
 a four-way 2024 with the incumbent running as an independent, a divided swing map,
 and the realignment's half-point beachhead at Lions Gate.
 https://mcallia.github.io/bc-sorted-province/capilano/
+
+## Federal
+
+**The Riding That Didn't Move - and Flipped Anyway** - North Island-Powell River:
+Aaron Gunn's 2025 win, poll by poll. His share barely grew; a Liberal wave through
+an NDP electorate split the vote, and 38.7% took the seat by 4,999 votes. With a
+companion interactive explorer of all 258 polling divisions (2021-2025 swing).
+https://mcallia.github.io/bc-sorted-province/nipr/
 
 All figures computed from source data; methodology and caveats in each piece's endnote.
