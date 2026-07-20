@@ -11,13 +11,20 @@ https://mcallia.github.io/bc-sorted-province/
 the suburban battleground, election-day neighbourhoods, and the advance-vote swing.
 https://mcallia.github.io/bc-sorted-province/majority/
 
-**The Riding That Swung the Other Way** - North Vancouver-Lonsdale, poll by poll:
-while BC swung right in 2024, all 66 of this riding's polls moved toward the NDP.
+## The North Shore Trilogy
+
+**The Riding That Swung the Other Way** - North Vancouver-Lonsdale: while BC swung
+right in 2024, all 66 of this riding's polls moved toward the NDP.
 https://mcallia.github.io/bc-sorted-province/lonsdale/
 
-**The Fall of Fortress Seymour** - North Vancouver-Seymour: the North Shore's Liberal
-citadel, its 2020 collapse, and the 2024 counter-swing that ran hardest through its
-deepest blue ground - 69 of 70 polls, with one lonely holdout.
+**The Fall of Fortress Seymour** - North Vancouver-Seymour: the Liberal citadel,
+its 2020 collapse, and a counter-swing that ran hardest through its deepest blue
+ground - 69 of 70 polls, with one lonely holdout.
 https://mcallia.github.io/bc-sorted-province/seymour/
+
+**The Seat That Wouldn't Turn** - West Vancouver-Capilano: the seat that never fell,
+a four-way 2024 with the incumbent running as an independent, a divided swing map,
+and the realignment's half-point beachhead at Lions Gate.
+https://mcallia.github.io/bc-sorted-province/capilano/
 
 All figures computed from source data; methodology and caveats in each piece's endnote.
