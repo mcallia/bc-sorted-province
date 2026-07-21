@@ -27,6 +27,19 @@ a four-way 2024 with the incumbent running as an independent, a divided swing ma
 and the realignment's half-point beachhead at Lions Gate.
 https://mcallia.github.io/bc-sorted-province/capilano/
 
+## The Island 2028 Pair
+
+**The Riding That Really Did Move** - North Island (provincial): two decades of NDP
+wins, the 2024 realignment that ran hardest through the resource villages, Anna
+Kindy's 639-vote win - and the Beat-Kindy playbook for October 2028.
+https://mcallia.github.io/bc-sorted-province/noi/
+
+**189 Made a Premier. 93 Made Brennan Day.** - Courtenay-Comox (provincial): the
+riding that decides governments - the 2017 cliff-hanger that made John Horgan
+premier, the structural Green fifth, the 2024 three-way split - and the Beat-Day
+playbook.
+https://mcallia.github.io/bc-sorted-province/crc/
+
 ## Federal
 
 **The Riding That Didn't Move - and Flipped Anyway** - North Island-Powell River:
